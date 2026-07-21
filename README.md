@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Pedrohp01&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=pedrohportodev&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
@@ -102,9 +102,9 @@ Atualmente concentro meus estudos no ecossistema **Java**, buscando dominar desd
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pedrohp01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pedrohportodev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohp01&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohportodev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -114,7 +114,7 @@ Atualmente concentro meus estudos no ecossistema **Java**, buscando dominar desd
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Pedrohp01&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=pedrohportodev&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -124,7 +124,7 @@ Atualmente concentro meus estudos no ecossistema **Java**, buscando dominar desd
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedrohp01&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrohportodev&theme=tokyo-night"/>
 
 </p>
 
@@ -134,7 +134,7 @@ Atualmente concentro meus estudos no ecossistema **Java**, buscando dominar desd
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pedrohp01&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pedrohportodev&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
@@ -154,7 +154,7 @@ Atualmente concentro meus estudos no ecossistema **Java**, buscando dominar desd
 
 **FATEC Praia Grande**
 
-2026 — Atualmente
+2026 — 2028
 
 ---
 
