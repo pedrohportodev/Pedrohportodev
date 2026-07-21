@@ -1,99 +1,187 @@
-<h1 align="center">Olá, eu sou o Pedro Henrique 👋</h1>
+# 👋 Olá, eu sou o Pedro Henrique
+
+<h3 align="center">
+💻 Back-end Developer • Java • Spring Boot • REST APIs
+</h3>
 
 <p align="center">
-💻 Desenvolvedor Back-end em formação <br>
-🚀 Java | Spring Boot| C# | APIs REST | Banco de Dados
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;REST+API+Developer;Always+Learning+New+Technologies"/>
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/pedro-henrique-8939842ab">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Pedrohp01&style=for-the-badge&color=0e75b6"/>
+
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+# 🚀 Sobre mim
 
-Sou desenvolvedor em formação, apaixonado por tecnologia e por resolver problemas através do código.  
-Tenho formação técnica em Informática e atualmente curso **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Back-end**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Back-end** apaixonado por transformar ideias em aplicações modernas, escaláveis e bem estruturadas.
 
-Minha principal stack é **Java com Spring Boot e C#**,  onde estudo e desenvolvo aplicações com **APIs REST**, integração com **banco de dados** e aplicação de **boas práticas de desenvolvimento e arquitetura de software**.
+Atualmente concentro meus estudos no ecossistema **Java**, buscando dominar desde a construção de APIs até arquitetura de software e boas práticas de desenvolvimento.
 
-Busco constantemente evoluir como desenvolvedor, criando projetos práticos e aprofundando meus conhecimentos em tecnologias utilizadas no mercado.
+## 🎯 Objetivos
 
----
-
-## 🚀 Tecnologias & Ferramentas
-
-<div align="center">
-
-### ⚙️ Linguagens & Banco de Dados
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🌐 Front-end
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🧰 Frameworks & Ferramentas
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-
-</div>
+* Desenvolver aplicações Back-end de alta qualidade
+* Aprimorar conhecimentos em Arquitetura de Software
+* Evoluir em Cloud Computing
+* Criar projetos completos que resolvam problemas reais
+* Conquistar minha primeira oportunidade como Desenvolvedor Back-end Java
 
 ---
 
-## 🎓 Formação & Cursos
+# ⚡ Stack Principal
 
-- 🎓 **Técnico em Informática** — Escola e Faculdade Fortec (2023 - 2025)  
-- 🎓 **Análise e Desenvolvimento de Sistemas** — Fatec (em andamento)
-
-### Cursos complementares
-
-- ☕ **Java Completo – Programação Orientada a Objetos + Projetos** — Udemy / Cod3r  
-- 🔷 **C# com Programação Orientada a Objetos** — Udemy  
-- 🚀 **Java POO** — Curso em Vídeo  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,maven,docker,mysql,postgres,sqlite,git,github,idea,vscode,eclipse"/>
+</p>
 
 ---
 
-## 📚 Atualmente estudando
+# 💻 Linguagens
 
-- Desenvolvimento de aplicações com **Spring Boot**
-- Criação de **APIs RESTful**
-- **Arquitetura em camadas**
-- **Design Patterns e princípios SOLID**
-- **Modelagem de banco de dados**
-- **Versionamento com Git e GitHub**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,cs,html,css"/>
+</p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+# 🛠 Frameworks & Tecnologias
 
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pedrohp01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohp01&layout=compact&theme=tokyonight"/>
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,maven"/>
+</p>
 
 ---
 
-## 📅 Contribuições
+# 🗄 Banco de Dados
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pedrohp01&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
+</p>
 
 ---
 
-## 🤝 Vamos nos conectar
+# 📚 Atualmente estudando
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-8939842ab/)
+```text
+✔ Spring Boot
+
+✔ Spring Security
+
+✔ JWT Authentication
+
+✔ JPA / Hibernate
+
+✔ Docker
+
+✔ REST APIs
+
+✔ SOLID
+
+✔ Design Patterns
+
+✔ Clean Architecture
+
+✔ Testes Unitários
+
+✔ Microsserviços
+```
 
 ---
 
-⭐ *Sempre aprendendo, construindo projetos e evoluindo como desenvolvedor.*
+# 🚀 Projetos em Destaque
+
+# 📊 Estatísticas
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pedrohp01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohp01&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Sequência de Contribuições
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Pedrohp01&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Gráfico de Contribuições
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedrohp01&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 Conquistas
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pedrohp01&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 🎓 Formação
+
+### 🎓 Técnico em Informática
+
+**Escola e Faculdade Fortec**
+
+2023 — 2025
+
+---
+
+### 🎓 Análise e Desenvolvimento de Sistemas
+
+**FATEC Praia Grande**
+
+2026 — Atualmente
+
+---
+
+# 📚 Cursos
+
+* ☕ Java Completo - Programação Orientada a Objetos
+* 🌱 Spring Boot REST APIs
+* 🔷 C# Completo
+* 💻 Java POO
+* 🐳 Docker (em andamento)
+
+---
+
+# 📫 Vamos nos conectar
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/pedro-henrique-8939842ab">
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+## 💡 *"Code. Learn. Build. Repeat."*
+
+</p>
