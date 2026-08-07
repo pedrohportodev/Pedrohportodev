@@ -130,10 +130,6 @@ Atualmente concentro meus estudos no ecossistema **Java**, buscando dominar desd
 
 ---
 
-# 🏆 Conquistas
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedrohportodev&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-</p>
 
 ---
 
