@@ -100,41 +100,13 @@ Atualmente concentro meus estudos no ecossistema **Java**, buscando dominar desd
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=pedrohportodev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  />
-
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohportodev&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
-
 ---
 
-# 🔥 GitHub Streak
+# 📊 GitHub
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=pedrohportodev&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrohportodev&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=pedrohportodev&theme=tokyo-night&hide_border=true"
-  />
-</p>
-
----
 
 ---
 
