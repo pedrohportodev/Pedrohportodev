@@ -98,38 +98,43 @@ Atualmente concentro meus estudos no ecossistema **Java**, buscando dominar desd
 
 # 🚀 Projetos em Destaque
 
-# 📊 Estatísticas
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=pedrohportodev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pedrohportodev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohportodev&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohportodev&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
 
-# 🔥 Sequência de Contribuições
+# 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=pedrohportodev&theme=tokyonight&hide_border=true"/>
-
+  <img
+    src="https://streak-stats.demolab.com/?user=pedrohportodev&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
 
-# 📈 Gráfico de Contribuições
+# 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrohportodev&theme=tokyo-night"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pedrohportodev&theme=tokyo-night&hide_border=true"
+  />
 </p>
 
 ---
-
 
 ---
 
