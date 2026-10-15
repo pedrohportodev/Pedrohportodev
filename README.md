@@ -5,120 +5,108 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;REST+API+Developer;Always+Learning+New+Technologies"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;REST+API+Developer;Always+Learning"/>
 </p>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/pedro-henrique-8939842ab">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=pedrohportodev&style=for-the-badge&color=0e75b6"/>
-
+  <a href="https://www.linkedin.com/in/pedro-henrique-8939842ab">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=pedrohportodev&style=for-the-badge&color=0e75b6"/>
 </p>
 
 ---
 
-# 🚀 Sobre mim
+## 🚀 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Back-end** apaixonado por transformar ideias em aplicações modernas, escaláveis e bem estruturadas.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na FATEC Praia Grande**, formado como **Técnico em Informática**, e atualmente atuo na área de **Suporte de TI**.
 
-Atualmente concentro meus estudos no ecossistema **Java**, buscando dominar desde a construção de APIs até arquitetura de software e boas práticas de desenvolvimento.
+Meu principal foco de desenvolvimento é o **Back-end com Java e Spring Boot**, criando APIs REST e aplicações utilizando boas práticas de programação, orientação a objetos e persistência de dados.
 
-## 🎯 Objetivos
-
-* Desenvolver aplicações Back-end de alta qualidade
-* Aprimorar conhecimentos em Arquitetura de Software
-* Evoluir em Cloud Computing
-* Criar projetos completos que resolvam problemas reais
-* Conquistar minha primeira oportunidade como Desenvolvedor Back-end Java
+Tenho interesse em evoluir cada vez mais em **Arquitetura de Software, Cloud, DevOps e segurança de aplicações**, buscando unir minha experiência prática em TI com desenvolvimento de software.
 
 ---
 
-# ⚡ Stack Principal
+## 🧑‍💻 O que estou construindo
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,maven,docker,mysql,postgres,sqlite,git,github,idea,vscode,eclipse"/>
+Atualmente estou focado em projetos que envolvem:
+
+- ☕ **Java**
+- 🌱 **Spring Boot**
+- 🔗 **REST APIs**
+- 🗄️ **JPA / Hibernate**
+- 🐬 **MySQL**
+- 🐘 **PostgreSQL**
+- 🐳 **Docker**
+- 🔐 **Spring Security / JWT**
+- 🧪 **Testes**
+- 🏗️ **Arquitetura de Software**
+
+---
+
+## ⚡ Tecnologias
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven"/>
+</p>
+
+### Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,idea,vscode"/>
+</p>
+
+### Outras tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,html,css"/>
 </p>
 
 ---
 
-# 💻 Linguagens
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,cs,html,css"/>
-</p>
-
----
-
-# 🛠 Frameworks & Tecnologias
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=spring,maven"/>
-</p>
-
----
-
-# 🗄 Banco de Dados
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
-</p>
-
----
-
-# 📚 Atualmente estudando
+## 📚 Atualmente estudando
 
 ```text
-✔ Spring Boot
-
-✔ Spring Security
-
-✔ JWT Authentication
-
-✔ JPA / Hibernate
-
-✔ Docker
-
-✔ REST APIs
-
-✔ SOLID
-
-✔ Design Patterns
-
-✔ Clean Architecture
-
-✔ Testes Unitários
-
-✔ Microsserviços
+Spring Boot
+JPA / Hibernate
+Spring Security
+JWT
+Docker
+Testes Unitários
+SOLID
+Design Patterns
+Clean Architecture
+Arquitetura de Software
+Microsserviços
+Cloud Computing
 ```
 
 ---
 
-# 🚀 Projetos em Destaque
+## 🚀 Projetos em destaque
+
+### 📚 Save My Studies
+
+Aplicação para organização dos estudos, estruturada para gerenciar conteúdos como áreas, matérias, tópicos e subtópicos.
+
+O projeto também explora integração entre Back-end e recursos de **Inteligência Artificial**.
+
+**Tecnologias:**
+`Java` `Spring Boot` `SQLite` `REST API` `Gemini API`
+
+🔗 [Ver projetos](https://github.com/pedrohportodev)
 
 ---
 
----
-
-# 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrohportodev&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🎓 Formação
-
-### 🎓 Técnico em Informática
-
-**Escola e Faculdade Fortec**
-
-2023 — 2025
-
----
+## 🎓 Formação
 
 ### 🎓 Análise e Desenvolvimento de Sistemas
 
@@ -126,32 +114,47 @@ Atualmente concentro meus estudos no ecossistema **Java**, buscando dominar desd
 
 2026 — 2028
 
----
+### 🎓 Técnico em Informática
 
-# 📚 Cursos
+**Escola e Faculdade Fortec**
 
-* ☕ Java Completo - Programação Orientada a Objetos
-* 🌱 Spring Boot REST APIs
-* 🔷 C# Completo
-* 💻 Java POO
-* 🐳 Docker (em andamento)
+Concluído em 2025
 
 ---
 
-# 📫 Vamos nos conectar
+## 📖 Formação complementar
+
+- ☕ Java e Programação Orientada a Objetos
+- 🌱 Spring Boot e desenvolvimento de APIs REST
+- 🔷 C#
+- 🗄️ Bancos de dados relacionais
+- 🐳 Docker
+- 🏗️ Arquitetura e boas práticas de desenvolvimento
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/pedro-henrique-8939842ab">
-<img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrohportodev&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
+## 🎯 Objetivo
+
+Continuar evoluindo como desenvolvedor **Back-end**, aprofundando meus conhecimentos em **Java, Spring Boot, arquitetura de software, Cloud e DevOps**, enquanto construo projetos cada vez mais completos e próximos de cenários reais.
+
+---
+
+## 📫 Vamos nos conectar?
+
 <p align="center">
+  <a href="https://www.linkedin.com/in/pedro-henrique-8939842ab">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
-## 💡 *"Code. Learn. Build. Repeat."*
-
+<p align="center">
+  <i>Code. Learn. Build. Repeat.</i>
 </p>
